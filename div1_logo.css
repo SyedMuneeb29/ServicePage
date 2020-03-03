@@ -1,0 +1,31 @@
+.div1{
+        /* width: 100%;
+        height: 100px; */
+        display: flex;
+       justify-content: center;
+       align-items: center;
+        
+}
+
+
+.div1_logo{
+
+        height: 200px;
+        width:  200px;
+        margin-top: 0px;
+
+
+}
+
+
+.div1_logo > img{
+        /* display: flex;
+          */
+        /* margin-left:  850px;
+        margin-right: 600px; */
+       
+       width: 280px;
+       height: 200px ;
+             
+}
+
